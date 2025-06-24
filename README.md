@@ -1,1 +1,2 @@
 # NLP-notes-chronicle
+> *"These notes are more than concepts and code — they’re a map of exploration. A deep dive into language, into meaning woven through syntax and semantics. Natural Language Processing isn’t just about parsing text; it’s about understanding the stories data tries to tell. This repository is my attempt to decode those whispers — to find the structure in the sentence, the signal in the syntax, and maybe, just maybe, uncover the human behind the words."*  
